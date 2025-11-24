@@ -2,16 +2,14 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>مطور ويب Full-Stack | React · Next.js · TypeScript · Express · MongoDB</em></p>
 
-[![Linkedin: yahya](https://img.shields.io/badge/-yahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahya659/)](https://www.linkedin.com/in/yahya659/)
-![GitHub followers](https://img.shields.io/github/followers/yahya659?label=تابعني&style=social)
-[![Website](https://img.shields.io/badge/المعرض-ff69b4.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yahya659.github.io/)](https://yahya659.github.io/)
+[![Linkedin: yahya](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahya-alhaifi-81b886374/)](https://www.linkedin.com/in/yahya-alhaifi-81b886374/)
+[![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yahya659)](https://github.com/yahya659)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yahayaalhaifi@gmail.com)](mailto:yahayaalhaifi@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=yahya659.yahya659)
 
 ### 📫 تواصل معي
 
 يمكنك التواصل معي لأي تعاون، عمل حر، أو مجرد قول مرحباً!  
-
-<a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/البريد-ff69b4?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 👇 جرب هذا الأمر في الطرفية للتعرف عليّ بطريقة ممتعة.
 
