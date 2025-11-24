@@ -8,6 +8,7 @@ I'm a Full-Stack Web Developer passionate about learning new technologies and bu
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yahya659)](https://github.com/yahya659)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alhaifi.alhaifi.2025?locale=ar_AR)](https://www.facebook.com/alhaifi.alhaifi.2025?locale=ar_AR)
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yahayaalhaifi@gmail.com)](mailto:yahayaalhaifi@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4ABDF3?style=flat-square&logo=Vercel&logoColor=white&link=https://my-portfolio-iduq.vercel.app/)](https://my-portfolio-iduq.vercel.app/)
 
 ---
 
@@ -23,4 +24,5 @@ I'm a Full-Stack Web Developer passionate about learning new technologies and bu
 - LinkedIn: [Yahya Alhaifi](https://www.linkedin.com/in/yahya-alhaifi-81b886374/)  
 - GitHub: [yahya659](https://github.com/yahya659)  
 - Facebook: [yahya.alhaifi](https://www.facebook.com/alhaifi.alhaifi.2025?locale=ar_AR)  
-- Email: yahayaalhaifi@gmail.com
+- Email: yahayaalhaifi@gmail.com  
+- Portfolio: [my-portfolio-iduq](https://my-portfolio-iduq.vercel.app/)
