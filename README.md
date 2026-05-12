@@ -36,8 +36,7 @@ cat > /mnt/user-data/outputs/profile_README.md << 'EOF'
 | [Food Delivery](https://github.com/yahya659/FoodDelivery) | تطبيق توصيل طعام مع واجهة مستخدم احترافية | Next.js · TypeScript · Tailwind |
 | [Laravel E-Commerce](https://github.com/yahya659/laravel-eCommece) | متجر إلكتروني متكامل مع لوحة تحكم وإدارة طلبات | Laravel · MySQL · Blade |
 
----
-## 📫 تواصل معي
+--- 
 
 ## 📫 تواصل معي
 
