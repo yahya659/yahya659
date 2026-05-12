@@ -35,6 +35,7 @@
 | [Qarisma](https://github.com/yahya659/qarisma-) | منصة محتوى ديناميكي بفئات متعددة — مبني من تصميم Figma | Next.js · TypeScript · Tailwind |
 | [Food Delivery](https://github.com/yahya659/FoodDelivery) | تطبيق توصيل طعام مع واجهة مستخدم احترافية | Next.js · TypeScript · Tailwind |
 | [Laravel E-Commerce](https://github.com/yahya659/laravel-eCommece) | متجر إلكتروني متكامل مع لوحة تحكم وإدارة طلبات | Laravel · MySQL · Blade |
+| [kooash_booking](https://github.com/yahya659/kooash_booking) |منصة حجز كوش الأعراس | Laravel · MySQL · Blade |
 
 --- 
 
