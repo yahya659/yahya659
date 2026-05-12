@@ -1,4 +1,4 @@
-cat > /mnt/user-data/outputs/profile_README.md << 'EOF'
+ 
 # Hi, I'm Yahya Alhaifi 👋
 
 ### Full-Stack Web Developer
