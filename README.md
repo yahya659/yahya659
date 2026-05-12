@@ -1,28 +1,49 @@
-<img align="right" height="250" width="375" alt="Coding GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
+cat > /mnt/user-data/outputs/profile_README.md << 'EOF'
 # Hi, I'm Yahya Alhaifi 👋
 
-I'm a Full-Stack Web Developer passionate about learning new technologies and building modern web applications.
+### Full-Stack Web Developer
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahya-alhaifi-81b886374/)](https://www.linkedin.com/in/yahya-alhaifi-81b886374/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yahya659)](https://github.com/yahya659)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alhaifi.alhaifi.2025?locale=ar_AR)](https://www.facebook.com/alhaifi.alhaifi.2025?locale=ar_AR)
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yahayaalhaifi@gmail.com)](mailto:yahayaalhaifi@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4ABDF3?style=flat-square&logo=Vercel&logoColor=white&link=https://my-portfolio-iduq.vercel.app/)](https://my-portfolio-iduq.vercel.app/)
+مطور ويب متكامل شغوف ببناء تطبيقات ويب حديثة وعالية الجودة — من الواجهة إلى قاعدة البيانات.
 
 ---
 
-## ⚡ Skills
-- **Front-End:** React, Next.js, TailwindCSS, Sass, Bootstrap  
-- **Back-End:** Node.js, Express  
-- **Database:** MongoDB  
-- **Languages:** JavaScript, TypeScript  
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat&logo=tailwindcss)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode)
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: [Yahya Alhaifi](https://www.linkedin.com/in/yahya-alhaifi-81b886374/)  
-- GitHub: [yahya659](https://github.com/yahya659)  
-- Facebook: [yahya.alhaifi](https://www.facebook.com/alhaifi.alhaifi.2025?locale=ar_AR)  
-- Email: yahayaalhaifi@gmail.com  
-- Portfolio: [my-portfolio-iduq](https://my-portfolio-iduq.vercel.app/)
+## 🚀 Featured Projects
+
+| المشروع | الوصف | التقنيات |
+|--------|-------|----------|
+| [Qarisma](https://github.com/yahya659/qarisma-) | منصة محتوى ديناميكي بفئات متعددة — مبني من تصميم Figma | Next.js · TypeScript · Tailwind |
+| [Food Delivery](https://github.com/yahya659/FoodDelivery) | تطبيق توصيل طعام مع واجهة مستخدم احترافية | Next.js · TypeScript · Tailwind |
+| [Laravel E-Commerce](https://github.com/yahya659/laravel-eCommece) | متجر إلكتروني متكامل مع لوحة تحكم وإدارة طلبات | Laravel · MySQL · Blade |
+
+---
+
+## 📫 تواصل معي
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-alhaifi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yahya659)
+
+EOF
+Output
+
+exit code 0
